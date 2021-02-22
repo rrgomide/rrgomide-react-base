@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "app-title": "Projeto Base",
+    "navbar-title": "Projeto Base",
+    "home-page": "Página inicial",
+
+    "counter-title": "Contador",
+    "counter-simple": "Simples",
+    "counter-custom": "Customizado",
+    "counter-auto": "Automatizado",
+    "counter-interval": "Intervalo:"
+  }
+}

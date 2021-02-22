@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "app-title": "Base Project",
+    "navbar-title": "Base Project",
+    "home-page": "Home Page",
+
+    "counter-title": "Counter",
+    "counter-simple": "Simple",
+    "counter-custom": "Custom",
+    "counter-auto": "Automatic",
+    "counter-interval": "Interval:"
+  }
+}
